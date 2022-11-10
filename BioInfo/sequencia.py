@@ -7,7 +7,7 @@ from BioInfo.tools import split_list , media
 
 class SeqTest:
     """
-    Imprime uma sequencia genérica
+    Gera um cadastro do autor da sequencia, contendo a sequencia gerada, data e local
     """
     pos = 0
 
