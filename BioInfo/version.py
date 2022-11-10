@@ -1,7 +1,7 @@
 class Version:
     VERSION = '1.0.0.0'
     CREATOR = {'Matheus Monteiro Batista': [ 'Brasil' , 'São Paulo' ]}
-    Py_VERSION = '3.9'
+    Py_VERSION = '3.11.0'
 
     def __init__(self):
         self.version = Version.VERSION
