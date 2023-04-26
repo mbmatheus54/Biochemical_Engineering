@@ -92,7 +92,7 @@ def replicacao(sequencia , taxa=False , tam=True):
     if taxa is True:
         media ( sequencia )
 
-def trancricao(sequencia):
+def transcricao(sequencia):
         global _transcrita
 
         fita = [ ]
